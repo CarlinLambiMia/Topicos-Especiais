@@ -1,0 +1,20 @@
+{
+  "name": "teste-frotas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "supertest": "^7.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "@faker-js/faker": "^9.0.0"
+  }
+}

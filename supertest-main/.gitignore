@@ -1,0 +1,4 @@
+#dependencias do projeto
+node_modules/
+#variaveis de ambiente
+.env
